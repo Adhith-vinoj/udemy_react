@@ -1,0 +1,169 @@
+
+.udfooter-section{
+    padding: 16px 24px;
+    background-color: #1d1e27;
+    border-top: 1px solid #b7b9cd;
+}
+
+.teach-sec{
+font-family:  medium;
+font-size: 16px;
+line-height: 19.825px;
+color: #fff;
+
+}
+
+ .ud-banner{
+    padding-top: 8px;
+
+ }
+
+
+ .teach-ud{
+    padding-top: 8px;
+ }
+
+ .teach-btn{
+    background: transparent;
+    border: 1px solid #fff;
+    height: 40px;
+    color: #ffF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    font-family: bold;
+    padding: 0px 12px;
+    font-size: 14px;
+
+ }
+
+ .notice-module{
+    padding: 12px 24px 12px 0px;
+ }
+
+ .footer-images img{
+    margin: 12px 24px 12px 0px;
+ }
+
+ .top{
+    font-family: bold;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+ }
+
+
+ .footer-area{
+   padding: 24px 24px 0px 24px;
+   background: #1d1e27;
+   border-top: 1px solid #b7b9cd;
+
+ }
+
+ .structured-link{
+   width: 100%;
+
+ }
+
+
+ .structured-heading{
+   margin: 16px 0px 24px;
+ }
+
+ .exp{
+   font-family: mediumwoff;
+   color: white;
+   font-size: 18px;
+ }
+
+
+ .acording-pannel{
+   border-top: none;
+   border-bottom: 1px solid #9194ac;
+
+ }
+
+ .according{
+   padding: 16px 0px;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+ }
+
+ .panel{
+   background: transparent;
+   border: none;
+   text-align: left;
+
+
+ }
+
+ .crt{
+   padding-bottom: 8px;
+   color: #ffF;
+   font-family: bold;
+   font-size:16px;
+ }
+
+
+ .no-border{
+  padding: 24px 24px 0px 24px;
+  background-color: rgb(17, 17, 22);
+ }
+
+
+ .abt{
+  margin: 16px 0px;
+  font-family: bold;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+
+ }
+
+
+ .str-links{
+ list-style-type: none;
+ padding: 0px 0px 24px;
+ margin: 0px;
+ }
+
+ .white-link{
+  color: white;
+  font-family: medium ; 
+  padding-bottom: 4px;
+  font-size: 14px;  
+  line-height: 19.6px;
+  font-weight: 400;
+
+ }
+
+.light-border{
+  padding: 0px 24px;
+  border-top: 1px solid #9194ac;
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 

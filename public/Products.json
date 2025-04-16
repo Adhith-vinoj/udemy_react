@@ -1,0 +1,307 @@
+[
+    {
+        "img"     : "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "title"   : "The Complete javaScript Course 2025: From Zero to Expert!",
+        "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+        "name"    : "jonas Schmedtman",
+        "rating"  :  3.9,
+        "star"    : "/images/svgexport-11.svg",
+        "reviews" : "(219,688)",
+        "hours"   : "71 total hours",
+        "lecture" : "330 lecture",
+        "levels"  : "All levels",
+        "price"   : "₹749",
+        "language": "English",
+        "type"    : "paid"
+        
+        
+  },
+
+  {
+        "img"     : "https://img-c.udemycdn.com/course/240x135/1565838_e54e_18.jpg",
+        "title"   : "The complete full-stack Web Devalopment Bootcamp",
+        "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+        "name"    : "Dr Angela Yu, Developer and lead Instructor",
+        "rating"  : 3.1,
+        "star"    : "/images/svgexport-11.svg",
+        "reviews" : "(425,438)",
+        "hours"   : "61.5 total hours",
+        "lecture" : "373 lecture",
+        "levels"  : "All levels",
+        "price"   : "₹749",
+        "language": "English",
+        "type"    : "paid" 
+       
+  },
+
+
+  {
+       "img"     : "https://img-c.udemycdn.com/course/240x135/2508942_11d3_3.jpg",
+       "title"   : "javaScript-The complete Guide 2025(Beginner + Advanced)",
+       "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+       "name"    : "Academind by Maximilan Schwarzmuller, Maximumilian Schwarmuller",
+       "rating"  :  4.5,
+       "star"    : "/images/svgexport-11.svg",
+       "reviews" : "(31,191)",
+       "hours"   : "52.5 total hour",
+       "lecture" : "617 lecture",
+       "levels"  : "All levels",
+       "price"   : "Free",
+       "language": "English",
+       "type"    : "free"
+       
+  },
+      
+    {
+     
+       "img"     : "https://img-c.udemycdn.com/course/240x135/1463348_52a4_4.jpg",
+       "title"   : "Modern JavaScript From The Begining 2.0(2024)",
+       "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+       "name"    : "Brad Traversy",
+       "rating"  : 4.7,
+       "star"    : "/images/svgexport-11.svg",
+       "reviews" : "(34,805)",
+       "hours"   : "36.5 total hours",
+       "lecture" : "265 lectures",
+       "levels"  : "All levels",
+       "price"   :"₹549",
+      "language" : "English",
+       "type"    :"paid"
+
+    },
+      
+   {
+        "img"    : "https://img-c.udemycdn.com/course/240x135/5605326_01df.jpg",
+        "title"  :  "JavaScript Pro:Mastering Adavanced Concepts and Technigues",
+        "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+        "name"   : "Colt Steele",
+        "rating" :  3.6,
+        "star"   : "/images/svgexport-11.svg",
+        "reviews": "(1,074)",
+        "hours"  : "19 total hours",
+        "lecture": "182 lecture",
+        "levels" : "All levels",
+        "price"  :"Free",
+        "language":"English",
+        "type"   :"free"
+
+   },
+
+
+   {
+
+      
+      "img"    : "https://img-c.udemycdn.com/course/240x135/5570126_ffa9_4.jpg",
+      "title"  :  "The complete JavaScript Course Zero to nHero in 2025",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "James MscArthur",
+      "rating" : 4.8,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(152)",
+      "hours"  : "9 total hours",
+      "lecture": "28 lecture",
+      "levels" : "All levels",
+      "price"  :"₹449",
+      "language":"English",
+      "type"   :"paid"
+
+   },
+                 
+   {
+      
+      
+      "img"    : "https://img-c.udemycdn.com/course/240x135/1743420_0062.jpg",
+      "title"  :  "JavaScript Basics for Beginners",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   :  "Mosh Hamedani",
+      "rating" : 3.3,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(40,638)",
+      "hours"  : "6.5 total hours",
+      "lecture": "104 lecture",
+      "levels" : "All levels",
+      "price"  :"Free",
+      "language":"English",
+      "type"   :"free"
+
+
+   },
+
+
+   {
+     
+      
+      "img"    : "https://img-c.udemycdn.com/course/240x135/2634490_e343_3.jpg",
+      "title"  :  "The Modern Javscript Bootcamp Course",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Colt Steele,Stephen Grider",
+      "rating" : 4.7,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(12,761)",
+      "hours"  : "52 total hours",
+      "lecture": "484 lecture",
+      "levels" : "All levels",
+      "price"  :"₹549",
+      "language":"English",
+      "type"   : "paid"
+
+
+   },
+
+   {
+      
+      "img"    : "https://img-c.udemycdn.com/course/240x135/3671332_b86a_4.jpg",
+      "title"  :  "50 Projects In 50 Days - HTML, CSS& javaScript",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Brad Travesrsy,Florin Pop",
+      "rating" : 4.1,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(12,255)",
+      "hours"  : "19 total hours",
+      "lecture": "167 lecture",
+      "levels" : "Beginner",
+      "price"  :"₹549",
+      "language":"english",
+      "type"   : "paid"
+
+
+   },
+
+
+   {
+
+     
+      "img"    : "https://img-c.udemycdn.com/course/240x135/1509816_dff8.jpg",
+      "title"  :  "javasScript Moderno Guia Definitiva Construye +20 Proyectos",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Juan Pablo De la torre Valdex",
+      "rating" : 3.5,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(18,599)",
+      "hours"  : "84 total hours",
+      "lecture": "505 lecture",
+      "levels" : "All levels",
+      "price"  :"₹700",
+      "language":"Spanish",
+      "type"   : "paid"
+
+
+
+   },
+
+   {
+
+     
+      "img"    : "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+      "title"  :  "React - the Complete Guide 2025(incl.Next.js,Redux)",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Academind by Maimilan Schwarzmuller, Mamimum Schwarzmuller",
+      "rating" : 4.6,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(225,656)",
+      "hours"  : "71.5 total hours",
+      "lecture": "726 lecture",
+      "levels" : "All levels",
+      "price"  : "₹699",
+      "language":"English",
+      "type"   : "paid"
+
+   },
+
+
+    {
+
+         
+      "img"    : "https://img-c.udemycdn.com/course/240x135/3030132_afb3_2.jpg",
+      "title"  :  "havaScript Web peojects:20 projects to build your portfolio",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Andrei Neagoie,jacinto wong",
+      "rating" : 3,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(4,117)",
+      "hours"  : "33 total hours",
+      "lecture": "243 lecture",
+      "levels" : "All levels",
+      "price"  :"₹549",
+      "language":"English",
+      "type"   : "paid"
+
+
+    },
+
+    {
+         
+        
+      "img"    : "https://img-c.udemycdn.com/course/240x135/4878712_df70_4.jpg",
+      "title"  :  "JavaScript TOTAL -De Cero a Programador Web en 18 DiaS",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Federio Garay, Escuela Directa",
+      "rating" : 3.7,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(4,117)",
+      "hours"  : "33 total hours",
+      "lecture": "243 lecture",
+      "levels" : "All levels",
+      "price"  : "₹549",
+      "language":"Spanish",
+      "type"   : "paid"
+
+    },
+
+    {
+
+         
+      "img"    : "https://img-c.udemycdn.com/course/240x135/2244912_9f92_17.jpg",
+      "title"  :  "Universidad javaScript - De Cero a Experto JavaScript!",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "Global Mentoring Lng. Ubaldo Acosta",
+      "rating" : 4,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(4,117)",
+      "hours"  : "44.5 total hours",
+      "lecture": "451 lecture",
+      "levels" : "All levels",
+      "price"  :"₹499",
+      "language":"Spanish",
+      "type"   : "paid"
+    },
+
+
+    {
+       
+          
+      "img"    : "https://img-c.udemycdn.com/course/240x135/5726070_9dbb.jpg",
+      "title"  :  "Ultimate JavaScript: de cero a programador experto",
+      "content" : "The modern javaScript course for everyone! Master javaScript with projects,challenges  and theory. Many course in one!",
+
+      "name"   : "nicolas Schurmann",
+      "rating" : 4.8,
+      "star"   : "/images/svgexport-11.svg",
+      "reviews": "(4,117)",
+      "hours"  : "13 total hours",
+      "lecture": "167 lecture",
+      "levels" : "All levels",
+      "price"  :"₹499",
+      "language":"Spanish",
+      "type"   : "paid"
+
+ 
+
+
+    }
+   
+   
+]

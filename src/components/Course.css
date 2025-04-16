@@ -1,0 +1,53 @@
+
+.related-search{
+    padding-top: 16px;
+}
+
+.related{
+    display: flex;
+
+}
+.ud-lg{
+    font-family: bold;
+    color:rgb(48, 49, 65);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.825px;
+}
+
+.related img{
+    margin-left: 10px;
+}
+
+.small-btn{
+    padding:0px 12px;
+    min-width: 40px;
+    height: 34px;
+    color: #fff;
+    background-color:#6d28d2 ;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+
+}
+
+
+.small-list{
+    font-family: bold;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.8px;
+    text-align: left;
+      
+
+}
+
+.related-srh-btn{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 16px;
+    white-space: nowrap;
+}
