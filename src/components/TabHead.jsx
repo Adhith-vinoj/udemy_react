@@ -66,10 +66,10 @@ const TabHead = () => {
             alt=""
           />
         </div>
-        <div>
+        <div
           className="nav-popper"
           onMouseOver={mouseSection}
-          style={{ position: "relative" }}
+          style={{ position: "relative" }}>
         
           <button className="exp-btn">
             <span>Explore</span>
