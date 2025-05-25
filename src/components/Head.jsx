@@ -1,7 +1,6 @@
 import menuBtn from "./img/menu.svg";
 import srcBtn from "./img/search.svg";
 import strBtn from "./img/store.svg";
-// import srch from "./img/srch.svg";
 import React, { useState } from "react";
 import "./Head.css";
 import MenuList from "./MenuList";
@@ -76,4 +75,6 @@ const Head = () => {
 };
 
 export default Head;
+
+
 
